@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.ttf
+*.ttc
+*.otf
+*.woff
+*.woff2
